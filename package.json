@@ -4,7 +4,7 @@
   "description": "Notify on your system whenever you receive a whisper\n\n!whisper to turn on/of notifications",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js --port 9092"
   },
   "author": ".carol",
   "license": "ISC",
