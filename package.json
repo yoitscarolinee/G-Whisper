@@ -1,0 +1,15 @@
+{
+  "name": "g-whisper",
+  "version": "1.0.0",
+  "description": "Notify on your system whenever you receive a whisper\n\n!whisper to turn on/of notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ".carol",
+  "license": "ISC",
+  "dependencies": {
+    "gnode-api": "^0.1.0",
+    "node-notifier": "^10.0.0"
+  }
+}
